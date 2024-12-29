@@ -29,7 +29,7 @@ Here are some of the projects I've worked on:
 ## Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/aaditya2907)
-- [Twitter]((https://x.com/not__Aaditya))
+- [Twitter](https://x.com/not__Aaditya)
 - [Email](mailto:aaaditya1314@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to say hi!
