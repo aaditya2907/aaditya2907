@@ -32,4 +32,5 @@ Here are some of the projects I've worked on:
 - [Email](mailto:aaaditya1314@gmail.com)
 
 Feel free to reach out if you'd like to collaborate on a project or just want to say hi!
+
 "Code is like humor. When you have to explain it, it's bad." – Cory House
