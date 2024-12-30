@@ -20,6 +20,7 @@ I'm a passionate software developer who thrives on turning complex problems into
 Here are some of the projects I've worked on:
 
 - [**Github Profile Card**](https://github.com/aaditya2907/Github-Profile-Card): A sleek and modern GitHub profile viewer that showcases user information in a beautifully designed card format.
+- - [**Sound Sphere**](https://github.com/aaditya2907/SoundSphere): A Music Streaming Platform that allows users to stream music from youtube.
 
 ## GitHub Stats
 
